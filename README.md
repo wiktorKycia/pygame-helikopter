@@ -3,9 +3,6 @@ I built this game using pygame according to a tutoria in [this book](https://www
 
 ## Setup {.tabset}
 
-Prerequisites:
-- python >= 3.10
-
 ### Windows
 
 ```sh
