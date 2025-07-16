@@ -3,6 +3,9 @@ I built this game using pygame according to a tutoria in [this book](https://www
 
 ## Setup {.tabset}
 
+Prerequisites:
+- python >= 3.10
+
 ### Windows
 
 ```sh
@@ -18,3 +21,4 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip3 install pygame
 ```
+## {-}
